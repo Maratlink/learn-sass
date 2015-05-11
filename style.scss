@@ -1,0 +1,10 @@
+$green: #645721;
+$pink: #fe5f5f;
+
+body {
+    width: 700px;
+    border: 1px solid $pink;
+    @media screen and (max-width: 960px) {
+    font-size: 75%;
+    }
+}
